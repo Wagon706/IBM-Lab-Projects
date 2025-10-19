@@ -1,1 +1,1 @@
-# Repository for project as a part of the IBM AI Developer Professional Course
+# AI Emotion Detector, Refer to the "ProjectImages" for an overview of the project.
